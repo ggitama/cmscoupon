@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "coupon-av-uob"
+  },
+  "targets": {
+    "coupon-av-uob": {
+      "hosting": {
+        "cms-sitevoucher": [
+          "cms-sitevoucher"
+        ],
+        "cmsvoucher": [
+          "cmsvoucher"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
