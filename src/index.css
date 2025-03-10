@@ -16,3 +16,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.table-container {
+  overflow-x: auto; /* Biar tabel bisa di-scroll jika terlalu lebar */
+  margin-bottom: 60px; /* Tambah ruang bawah agar tidak terpotong */
+  min-height: 400px; /* Pastikan ada cukup tinggi */
+}
